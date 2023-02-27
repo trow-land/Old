@@ -1,2 +1,2 @@
 # Old
-Old coursework or programming projects
+Old coursework and programming projects
